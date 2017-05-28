@@ -1,0 +1,8 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1855-7349
+
+ Directory of C:\Users\Rohit-pc\Desktop\Jenkins-Study\GIT\MyProject
+
+05/28/2017  10:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  94,770,905,088 bytes free
